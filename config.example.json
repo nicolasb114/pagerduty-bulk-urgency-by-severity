@@ -1,0 +1,12 @@
+{
+  "pagerduty_api_token": "YOUR_PAGERDUTY_API_KEY",
+  "from_email": "your.email@example.com",
+  "severities_to_escalate": [
+    "critical",
+    "error",
+    "warning"
+  ],
+  "incident_limit": 300,
+  "filter_acknowledged": false,
+  "dry_run": true
+}
