@@ -228,4 +228,4 @@ For issues or questions:
 
 
 ---
-**Setup:** copy `config.example.json` to `config.json` and fill in your own values. `config.json` is git-ignored. Run with `dry_run` enabled first.
+**Setup:** edit `config.json` and replace the placeholder values with your own. Keep your real API key out of commits. Run with `dry_run` enabled first.
